@@ -1,0 +1,15 @@
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 60px;
+}
+.jumbotron{
+    height: 100vh;
+}
+body{
+	padding-top: 65px
+}
