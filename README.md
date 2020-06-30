@@ -1,5 +1,5 @@
 # utili-website
 
-The website for the public Discord bot [Utili](bit.ly/InviteUtili)
+The website for the public Discord bot [Utili](https://bit.ly/InviteUtili)
 
-[Bot's Github](github.com/230Daniel/Utili)
+[Bot's Github](https://github.com/230Daniel/Utili)
