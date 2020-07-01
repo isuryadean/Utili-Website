@@ -1,4 +1,12 @@
 
+
+html {
+  scroll-behavior: smooth;
+}
+footer{
+	width:100%;
+	outline-color: grey;
+}
 .sticky {
   position: fixed;
   top: 0;
@@ -7,9 +15,12 @@
 .sticky + .content {
   padding-top: 60px;
 }
-.jumbotron{
+.full-page{
     height: 100vh;
 }
 body{
-	padding-top: 65px
+	padding-top: 65px;
+}
+.spacer{
+	height: 20%;
 }
